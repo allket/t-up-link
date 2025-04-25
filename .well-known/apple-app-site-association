@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3K9KN4Z8YY.app.tup",
+        "paths": [
+          "/u6cf/*"
+        ]
+      },
+      {
+        "appID": "3K9KN4Z8YY.app.tup.dev",
+        "paths": [
+          "/u6cf/*"
+        ]
+      }
+    ]
+  }
+}

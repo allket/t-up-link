@@ -1,0 +1,1 @@
+- https://link.t-up.app 을 위한 link page

@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.tup.dev",
+      "sha256_cert_fingerprints": [
+        "03:B7:37:1C:0B:CC:37:E2:B9:CD:E3:A3:7F:F6:3D:A1:04:5D:6B:CB:81:11:98:7D:7D:D9:AF:05:1A:F0:EE:0F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.tup",
+      "sha256_cert_fingerprints": [
+        "03:B7:37:1C:0B:CC:37:E2:B9:CD:E3:A3:7F:F6:3D:A1:04:5D:6B:CB:81:11:98:7D:7D:D9:AF:05:1A:F0:EE:0F"
+      ]
+    }
+  }
+]
